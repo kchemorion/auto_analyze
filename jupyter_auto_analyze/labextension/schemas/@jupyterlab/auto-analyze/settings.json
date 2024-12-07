@@ -1,0 +1,14 @@
+{
+    "jupyter.lab.setting-icon": "auto-analyze:settings",
+    "jupyter.lab.setting-editor": "auto-analyze:settings",
+    "title": "Auto Analyze",
+    "description": "Settings for auto analyze extension",
+    "properties": {
+      "claude_api_key": {
+        "type": "string",
+        "title": "Claude API Key",
+        "default": ""
+      }
+    },
+    "type": "object"
+  }

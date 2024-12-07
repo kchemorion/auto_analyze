@@ -1,0 +1,9 @@
+.jp-AutoAnalyze-button {
+  background-color: var(--jp-brand-color1);
+  color: white;
+  padding: 0 12px;
+}
+
+.jp-AutoAnalyze-button:hover {
+  background-color: var(--jp-brand-color0);
+}

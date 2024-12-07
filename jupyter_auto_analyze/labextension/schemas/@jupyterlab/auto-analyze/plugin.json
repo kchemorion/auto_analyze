@@ -1,0 +1,12 @@
+{
+    "title": "Auto Analyze",
+    "description": "Settings for auto-analyze extension.",
+    "type": "object",
+    "properties": {
+      "claude_api_key": {
+        "type": "string",
+        "title": "Claude API Key",
+        "default": ""
+      }
+    }
+  }
